@@ -21,5 +21,10 @@ namespace Sample
         {
             label1.Text = "Hi";
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            label1.Text = "Lester baliw";
+        }
     }
 }
