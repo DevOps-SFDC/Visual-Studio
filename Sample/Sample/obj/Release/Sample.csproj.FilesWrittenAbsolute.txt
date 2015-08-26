@@ -1,0 +1,7 @@
+/var/lib/jenkins/jobs/Sample/workspace/Sample/Sample/obj/Release/Sample.Form1.resources
+/var/lib/jenkins/jobs/Sample/workspace/Sample/Sample/obj/Release/Sample.Properties.Resources.resources
+/var/lib/jenkins/jobs/Sample/workspace/Sample/Sample/bin/Release/Sample.exe.config
+/var/lib/jenkins/jobs/Sample/workspace/Sample/Sample/bin/Release/Sample.exe.mdb
+/var/lib/jenkins/jobs/Sample/workspace/Sample/Sample/bin/Release/Sample.exe
+/var/lib/jenkins/jobs/Sample/workspace/Sample/Sample/obj/Release/Sample.exe
+/var/lib/jenkins/jobs/Sample/workspace/Sample/Sample/obj/Release/Sample.exe.mdb
