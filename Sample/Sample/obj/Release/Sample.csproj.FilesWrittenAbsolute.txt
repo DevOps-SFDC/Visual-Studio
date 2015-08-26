@@ -5,3 +5,9 @@
 /var/lib/jenkins/jobs/Sample/workspace/Sample/Sample/bin/Release/Sample.exe
 /var/lib/jenkins/jobs/Sample/workspace/Sample/Sample/obj/Release/Sample.exe
 /var/lib/jenkins/jobs/Sample/workspace/Sample/Sample/obj/Release/Sample.exe.mdb
+/var/lib/jenkins/jobs/Git_Push_to_Branch_Release/workspace/Sample/Sample/obj/Release/Sample.Form1.resources
+/var/lib/jenkins/jobs/Git_Push_to_Branch_Release/workspace/Sample/Sample/obj/Release/Sample.Properties.Resources.resources
+/var/lib/jenkins/jobs/Git_Push_to_Branch_Release/workspace/Sample/Sample/bin/Release/Sample.exe.mdb
+/var/lib/jenkins/jobs/Git_Push_to_Branch_Release/workspace/Sample/Sample/bin/Release/Sample.exe
+/var/lib/jenkins/jobs/Git_Push_to_Branch_Release/workspace/Sample/Sample/obj/Release/Sample.exe
+/var/lib/jenkins/jobs/Git_Push_to_Branch_Release/workspace/Sample/Sample/obj/Release/Sample.exe.mdb
