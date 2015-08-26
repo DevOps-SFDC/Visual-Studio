@@ -11,3 +11,4 @@
 /var/lib/jenkins/jobs/Git_Push_to_Branch_Release/workspace/Sample/Sample/bin/Release/Sample.exe
 /var/lib/jenkins/jobs/Git_Push_to_Branch_Release/workspace/Sample/Sample/obj/Release/Sample.exe
 /var/lib/jenkins/jobs/Git_Push_to_Branch_Release/workspace/Sample/Sample/obj/Release/Sample.exe.mdb
+/var/lib/jenkins/jobs/Git_Push_to_Branch_Release/workspace/Sample/Sample/bin/Release/Sample.exe.config
